@@ -1,0 +1,3 @@
+# Project exclude paths
+/weixin-net/target/
+/weixin-proxy/target/
